@@ -11,6 +11,13 @@ The following files are included:
 ## Data
 All the data files used for this project have been stored in this [Kaggle dataset](https://www.kaggle.com/datasets/lottemi/openmiir/data). 
 
-## References
+## References relevant to the code
+- Cisotto, G., Zancanaro, A., Zoppis, I. F., & Manzoni, S. L. (2024). hvEEGNet: a novel deep learning model for high-fidelity EEG reconstruction. Frontiers in Neuroinformatics, 18. https://doi.org/10.3389/fninf.2024.1459970
+- Gramfort, A., Luessi, M., Larson, E., Engemann, D. A., Strohmeier, D., Brodbeck, C., Goj, R., Jas, M., Brooks, T., Parkkonen, L., & Hämäläinen, M. (2013). MEG and EEG data analysis with MNE-Python. Frontiers in Neuroscience, 7, 267. https://doi.org/10.3389/fnins.2013.00267
+- Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., … others. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12(Oct), 2825–2830.
+- Song, Y., Zheng, Q., Liu, B. and Gao, X. (2023). EEG Conformer: Convolutional Transformer for EEG Decoding and Visualization. IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 31, pp. 710-719, doi: 10.1109/TNSRE.2022.3230250.
+- Stober, S. (2017). Toward Studying Music Cognition with Information Retrieval Techniques: Lessons Learned from the OpenMIIR Initiative. Frontiers in Psychology, 8. https://doi.org/10.3389/fpsyg.2017.01255. Related code is published here: https://github.com/sstober/openmiir.
+
+
 
 
