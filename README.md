@@ -9,7 +9,7 @@ The following files are included:
 - **: Building and tuning the Conformer model, designed and shared by Song et al. (2022) [here](https://github.com/eeyhsong/EEG-Conformer/tree/main).
 
 ## Data
-All the data files used for this project have been stored in this [Kaggle dataset](https://www.kaggle.com/datasets/lottemi/openmiir). 
+All the data files used for this project have been stored in this [Kaggle dataset](https://www.kaggle.com/datasets/lottemi/openmiir/data). 
 
 ## References
 
