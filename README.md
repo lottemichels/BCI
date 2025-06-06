@@ -3,9 +3,9 @@ This Github repository contains the code for the BCI project by Lotte Michels &a
 
 ## Setup
 The following files are included:
-- __BCI Pre-Processing__: Pre-processing of the raw EEG OpenMIIR files, replicating original work by Stober (2017) that can be found [here](https://github.com/sstober/openmiir/tree/master/eeg/preprocessing/notebooks).
-- __ __: Training the hvEEGNet variational auto-encoder on the pre-processed OpenMIIR epochs, using the network library created by Cisotto et al. (2022) that can be found [here](https://github.com/jesus-333/Variational-Autoencoder-for-EEG-analysis/tree/hvEEGNet_paper).
-- __BCI hvEEGNet + Machine Learning__: Building and tuning Logistic Regression and SVM classifiers on the hvEEGNet encoded features.
+- __BCI Pre-Processing Jupyter notebook__: Pre-processing of the raw EEG OpenMIIR files, replicating original work by Stober (2017) that can be found [here](https://github.com/sstober/openmiir/tree/master/eeg/preprocessing/notebooks).
+- __hvEEGNet folder__: Training and applying the hvEEGNet variational auto-encoder on the pre-processed OpenMIIR epochs, using the network library created by Cisotto et al. (2022) that can be found [here](https://github.com/jesus-333/Variational-Autoencoder-for-EEG-analysis/tree/hvEEGNet_paper). The folder contains two .py scripts that are fundamental to our work: the __BCI_VAE_Training.py__ runs the hvEEGNet training process and the __BCI_VAE_Encoding.py__ extracts the encoder from the trained hvEEGNet model and uses this to create latent features for the data samples. 
+- __BCI hvEEGNet + Machine Learning Jupyter notebook__: Building and tuning Logistic Regression and SVM classifiers on the hvEEGNet encoded features.
 - __ __: Building and tuning the Conformer model, designed and shared by Song et al. (2022) [here](https://github.com/eeyhsong/EEG-Conformer/tree/main).
 
 ## Data
