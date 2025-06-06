@@ -1,4 +1,4 @@
-# BCI Project by Lotte Michels &amp; Selma Ancel
+# BCI Project Code
 This Github repository contains the code for the BCI project by Lotte Michels &amp; Selma Ancel.
 
 ## Setup
